@@ -3,7 +3,7 @@
 // Konfigurasi koneksi ke database
 $servername = "localhost";  
 $username = "root";         
-$password = "kaylaaurel20";             
+$password = "";             
 $dbname = "mitra_db";       
 
 // Membuat koneksi
